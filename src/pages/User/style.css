@@ -1,0 +1,53 @@
+.fontColor1{
+    color: #FFFFFF;
+}
+
+.Navsheet{
+    background:#231E52 ;
+}
+.Darkblue{
+    background: #272A61;
+}
+.purpleColor{
+    background:#C1BBEB  ;
+}
+.buttons{
+    color: #867BFF ;
+}
+.button{
+    background-color: #867BFF ;
+}
+.blackColor{
+   color:  #111111; 
+}
+/* fontColor: "#FFFFFF",
+mainBackGroundColor: "#1A0733",
+outColor: "ff6700",
+blackColor: "#111111",
+SidBar: "#211D52",
+SidBarfont: "#C1BBEB" ,
+OrngColor: "#FB7D5B",
+greenColor: "#4CBC9A",
+gray:"#F5F5F5",
+Navsheet:"#231E52 ",
+bgsheet:"#0E1563 ",
+purpleColor: "#C1BBEB",
+Darkblue: "#272A61",
+ylawoColor: "#FCC43E",
+button:"#867BFF",
+massg:"#3E3781",
+card:"#192A52",
+shadowColor: "#00171f",
+nav: "#223061" */
+
+
+.inputs{
+    border: 1px solid #C1BBEB;
+    background: #272A61;
+    color: azure;
+}
+.inputss{
+    border: 1px solid #867BFF;
+    background: #272A61;
+    color: azure;
+}
